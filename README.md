@@ -29,7 +29,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `gh-pages`
 
-To create a GitHub page site, follow this [link]
+To create a GitHub page site, follow this [link](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 
 To deploy a React App with gh-pages, follow this [link](https://github.com/gitname/react-gh-pages)
 
